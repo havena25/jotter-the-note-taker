@@ -8,7 +8,6 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-
 ## Acceptance Criteria
 
 ```
@@ -37,6 +36,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 The following images show the web application's appearance and functionality:
 
+
+## Links
+[Heroku](https://jotter-the-note-taker.herokuapp.com)
+[Github](https://github.com/havena25/jotter-the-note-taker)
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
