@@ -1,0 +1,27 @@
+{
+  "name": "jotter-the-note-taker",
+  "version": "1.0.0",
+  "description": "app to take, store and delete notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/havena25/jotter-the-note-taker.git"
+  },
+  "author": "havena25",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/havena25/jotter-the-note-taker/issues"
+  },
+  "homepage": "https://github.com/havena25/jotter-the-note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^27.5.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  }
+}
